@@ -8,8 +8,8 @@
     "website": "https://preethapant.github.io",
     "summary": "I am a student at the University of Hawaii at Manoa majoring in MIS. I expect to graduate in Spring, 2021.",
     "location": {
-      "address": "2404 Maile Way",
-      "postalCode": "96822",
+      "address": "",
+      "postalCode": "96826",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -45,15 +45,13 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Application",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Microsoft Office",
+        "Photoshop",
+        "Dreamweaver",
+        
       ]
     },
     {
@@ -100,52 +98,25 @@
       "startDate": "2018-05-18",
       "endDate": "2019-04-26",
       "summary": "Tutored college algebra to calculus to students and help them understand the key concepts that comes with the course.",
-      "highlights": [
-        ""
-      ]
+     
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Blue Planet Foundation",
+      "website": "https://blueplanetfoundation.org/",
+      "position": "Blue Line Project Volunteer",
+      "startDate": "2018-04-21",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Spread awareness of the increase sea level",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Interact with kids to show different portions of the state that will be underwater in the next 50 to 100 years",
+       
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
+   
   ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
+  
   "references": [
     {
       "name": "Available upon request",
