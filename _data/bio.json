@@ -1,117 +1,105 @@
 {
-  "basics": {
-    "name": "Preetha Pant",
-    "label": "Student",
-    "picture": "https://preethapant.github.io/images/Preetha.jpg",
-    "email": "pree@hawaii.edu",
-    "phone": "",
-    "website": "https://preethapant.github.io",
-    "summary": "I am a student at the University of Hawaii at Manoa majoring in MIS. I expect to graduate in Spring, 2021.",
-    "location": {
-      "address": "",
-      "postalCode": "96826",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "preethapant",
-        "url": "http://github.com/preethapant"
-      },
-      
-      
-    ]
-  },
-  "interests": [
-    {
-      "name": "Travelling",
-      "keywords": [
-       
-      ]
-    },
-    {
-      "name": " Programming",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Artificial intelligence",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Applications/ Operating Systems",
-      "level": "",
-      "keywords": [
-        "Microsoft Windows"
-        "Microsoft Office (Excel,Word, PowerPoint)",
-        "Photoshop",
-        "Dreamweaver",
-        
-      ]
-    },
-    {
-  
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Syatems (expected Spring, 2021)",
-      "studyType": "B.S.",
-      "startDate": "2017-08-21",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa",
-      "position": "Conference Housing, Desk Receptionist",
-      "website": "",
-      "startDate": "2019-05-13",
-      "endDate": "2019-08-11",
-      "summary": "Maintain, update, and oversee guests arrivals, deparartures and concerns during stay",
-      "highlights": [
-        "Answer phone and individual concerns to the Conference Housing Front Desk",
-       
-      ]
-    },
-    {
-      "company": "Kapiolani Community College",
-      "position": " Math Tutor",
-      "website": "https://www.kapiolani.hawaii.edu/the-study-hub-lama-library-writing-and-math-mentoring/",
-      "startDate": "2018-05-18",
-      "endDate": "2019-04-26",
-      "summary": "Tutored college algebra to calculus to students and help them understand the key concepts that comes with the course.",
-     
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Blue Planet Foundation",
-      "website": "https://blueplanetfoundation.org/",
-      "position": "Blue Line Project Volunteer",
-      "startDate": "2018-04-21",
-      "endDate": "Present",
-      "summary": "Spread awareness of the increase sea level",
-      "highlights": [
-        "Interact with kids to show different portions of the state that will be underwater in the next 50 to 100 years",
-       
-      ]
-    },
-   
-  ],
-  
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
-}
+	"basics": {
+		"name": "Preetha Pant",
+		"label": "Student",
+		"picture": "https://preethapant.github.io/images/Preetha.jpg",
+		"email": "pree@hawaii.edu",
+		"phone": "",
+		"website": "https://preethapant.github.io",
+		"summary": "I am a student at the University of Hawaii at Manoa majoring in MIS. I expect to graduate in Spring, 2021.",
+		"location": {
+			"address": "",
+			"postalCode": "96826",
+			"city": "Honolulu",
+			"countryCode": "USA",
+			"region": "Hawaii"
+		},
+		"profiles": [{
+				"network": "github",
+				"username": "preethapant",
+				"url": "http://github.com/preethapant"
+			}
+
+
+		]
+	},
+	"interests": [{
+			"name": "Travelling",
+			"keywords": [
+
+			]
+		},
+		{
+			"name": " Programming",
+			"keywords": []
+		},
+		{
+			"name": "Artificial intelligence",
+			"keywords": []
+		}
+	],
+	"skills": [{
+			"name": "Applications/ Operating Systems",
+			"level": "",
+			"keywords": [
+				"Microsoft Windows"
+				"Microsoft Office (Excel,Word, PowerPoint)",
+				"Photoshop",
+				"Dreamweaver",
+
+			]
+		},
+		{
+
+		],
+		"education": [{
+			"institution": "University of Hawaii, Honolulu, HI",
+			"area": "Management Information Syatems (expected Spring, 2021)",
+			"studyType": "B.S.",
+			"startDate": "2017-08-21",
+			"endDate": "Present",
+			"gpa": "",
+			"courses": []
+		}],
+		"work": [{
+				"company": "UH Manoa",
+				"position": "Conference Housing, Desk Receptionist",
+				"website": "",
+				"startDate": "2019-05-13",
+				"endDate": "2019-08-11",
+				"summary": "Maintain, update, and oversee guests arrivals, deparartures and concerns during stay",
+				"highlights": [
+					"Answer phone and individual concerns to the Conference Housing Front Desk",
+
+				]
+			},
+			{
+				"company": "Kapiolani Community College",
+				"position": " Math Tutor",
+				"website": "https://www.kapiolani.hawaii.edu/the-study-hub-lama-library-writing-and-math-mentoring/",
+				"startDate": "2018-05-18",
+				"endDate": "2019-04-26",
+				"summary": "Tutored college algebra to calculus to students and help them understand the key concepts that comes with the course.",
+
+			}
+		],
+		"volunteer": [{
+				"organization": "Blue Planet Foundation",
+				"website": "https://blueplanetfoundation.org/",
+				"position": "Blue Line Project Volunteer",
+				"startDate": "2018-04-21",
+				"endDate": "Present",
+				"summary": "Spread awareness of the increase sea level",
+				"highlights": [
+					"Interact with kids to show different portions of the state that will be underwater in the next 50 to 100 years",
+
+				]
+			},
+
+		],
+
+		"references": [{
+			"name": "Available upon request",
+			"reference": ""
+		}]
+	}
