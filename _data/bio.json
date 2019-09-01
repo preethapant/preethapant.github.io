@@ -71,9 +71,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Management Information Syatems (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2017-08-21",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -82,27 +82,26 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa, Conference Housing",
+      "position": "Desk Receptionist",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2019-05-13",
+      "endDate": "2019-08-11",
+      "summary": "Maintain, update, and oversee guests arrivals, deparartures and concerns during stay",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Answer phone and individual concerns to the Conference Housing Front Desk",
+       
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Kapiolani Community College",
+      "position": " Math Tutor",
+      "website": "https://www.kapiolani.hawaii.edu/the-study-hub-lama-library-writing-and-math-mentoring/",
+      "startDate": "2018-05-18",
+      "endDate": "2019-04-26",
+      "summary": "Tutored college algebra to calculus to students and help them understand the key concepts that comes with the course.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        ""
       ]
     }
   ],
