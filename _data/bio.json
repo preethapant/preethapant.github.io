@@ -42,64 +42,65 @@
 			"name": "Applications/ Operating Systems",
 			"level": "",
 			"keywords": [
-				"Microsoft Windows"
+				"Microsoft Windows",
 				"Microsoft Office (Excel,Word, PowerPoint)",
 				"Photoshop",
-				"Dreamweaver",
+				"Dreamweaver"
+
+			]
+		}
+
+
+
+	],
+	"education": [{
+		"institution": "University of Hawaii, Honolulu, HI",
+		"area": "Management Information Syatems (expected Spring, 2021)",
+		"studyType": "B.S.",
+		"startDate": "2017-08-21",
+		"endDate": "Present",
+		"gpa": "",
+		"courses": []
+	}],
+	"work": [{
+			"company": "UH Manoa",
+			"position": "Conference Housing, Desk Receptionist",
+			"website": "",
+			"startDate": "2019-05-13",
+			"endDate": "2019-08-11",
+			"summary": "Maintain, update, and oversee guests arrivals, deparartures and concerns during stay",
+			"highlights": [
+				"Answer phone and individual concerns to the Conference Housing Front Desk"
 
 			]
 		},
 		{
+			"company": "Kapiolani Community College",
+			"position": " Math Tutor",
+			"website": "https://www.kapiolani.hawaii.edu/the-study-hub-lama-library-writing-and-math-mentoring/",
+			"startDate": "2018-05-18",
+			"endDate": "2019-04-26",
+			"summary": "Tutored college algebra to calculus to students and help them understand the key concepts that comes with the course."
 
-		],
-		"education": [{
-			"institution": "University of Hawaii, Honolulu, HI",
-			"area": "Management Information Syatems (expected Spring, 2021)",
-			"studyType": "B.S.",
-			"startDate": "2017-08-21",
+		}
+	],
+	"volunteer": [{
+			"organization": "Blue Planet Foundation",
+			"website": "https://blueplanetfoundation.org/",
+			"position": "Blue Line Project Volunteer",
+			"startDate": "2018-04-21",
 			"endDate": "Present",
-			"gpa": "",
-			"courses": []
-		}],
-		"work": [{
-				"company": "UH Manoa",
-				"position": "Conference Housing, Desk Receptionist",
-				"website": "",
-				"startDate": "2019-05-13",
-				"endDate": "2019-08-11",
-				"summary": "Maintain, update, and oversee guests arrivals, deparartures and concerns during stay",
-				"highlights": [
-					"Answer phone and individual concerns to the Conference Housing Front Desk",
+			"summary": "Spread awareness of the increase sea level",
+			"highlights": [
+				"Interact with kids to show different portions of the state that will be underwater in the next 50 to 100 years"
 
-				]
-			},
-			{
-				"company": "Kapiolani Community College",
-				"position": " Math Tutor",
-				"website": "https://www.kapiolani.hawaii.edu/the-study-hub-lama-library-writing-and-math-mentoring/",
-				"startDate": "2018-05-18",
-				"endDate": "2019-04-26",
-				"summary": "Tutored college algebra to calculus to students and help them understand the key concepts that comes with the course.",
+			]
+		}
 
-			}
-		],
-		"volunteer": [{
-				"organization": "Blue Planet Foundation",
-				"website": "https://blueplanetfoundation.org/",
-				"position": "Blue Line Project Volunteer",
-				"startDate": "2018-04-21",
-				"endDate": "Present",
-				"summary": "Spread awareness of the increase sea level",
-				"highlights": [
-					"Interact with kids to show different portions of the state that will be underwater in the next 50 to 100 years",
+	],
 
-				]
-			},
-
-		],
-
-		"references": [{
-			"name": "Available upon request",
-			"reference": ""
-		}]
-	}
+	"references": [{
+		"name": "Available upon request",
+		"reference": ""
+	}]
+}
