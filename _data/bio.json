@@ -45,26 +45,18 @@
   ],
   "skills": [
     {
-      "name": "Application",
+      "name": "Applications/ Opperating Systems",
       "level": "",
       "keywords": [
-        "Microsoft Office",
+        "Microsoft Windows"
+        "Microsoft Office (Excel,Word, PowerPoint)",
         "Photoshop",
         "Dreamweaver",
         
       ]
     },
     {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }
+  
   ],
   "education": [
     {
